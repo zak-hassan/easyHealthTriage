@@ -6,8 +6,7 @@ app = Flask(__name__)
 
 
 @app.route("/")
-@app.route("/listView")
-@app.route("/emptyState")
+@app.route("/second_page")
 def home():
     return render_template('index.html')
 
