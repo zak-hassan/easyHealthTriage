@@ -9,12 +9,12 @@ export const viewsConfig = [
 export const navbarConfig = {
   // The different tabs and the link to where they are routed to.
   categories: [
-    {title: 'Main Page', link: '/'},
-    {title: 'Second Page', link: '/second_page'},],
+    {title: 'Triage', link: '/'},
+    {title: 'Queue', link: '/second_page'},],
   // The title image placed at the top, above nav.
   titleSrc: {
-    path: '../static/build/img/brand.svg',
-    alt: 'Patternfly Demo App',
+    path: '',
+    alt: 'EasyHealthTriage',
     useImage: true,
   }
 };
