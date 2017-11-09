@@ -1,0 +1,2 @@
+# easyHealthTriage
+HealthCare Triage Application
