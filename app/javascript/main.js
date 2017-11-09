@@ -9,3 +9,9 @@ import '../../node_modules/bootstrap/dist/js/bootstrap.min.js';
 
 //Patternfly JS
 import '../../node_modules/patternfly/dist/js/patternfly.min.js';
+
+// DataTable JS
+import '../../node_modules/datatables.net/js/jquery.dataTables.js';
+
+// Patternfly Pagination
+import '../../node_modules/patternfly/dist/js/patternfly.dataTables.pfPagination.js';

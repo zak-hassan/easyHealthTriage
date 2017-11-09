@@ -3,10 +3,10 @@ import React, { Component } from "react";
 export class main_page extends Component {
 
   render() {
-    let pageContent = <p>This is the first page!</p>;
+    
     var cardFooterStyle= { 
         padding : '40px'
-      }
+      };
     return (
       <div className="col col-cards-pf container-cards-pf fader">
         <div className="cards col-xs-10 col-md-8">
@@ -17,10 +17,10 @@ export class main_page extends Component {
               </h2>
               <div className="card-pf-footer"  style={cardFooterStyle}>
                 <form>
-              <div class="form-group">
+              <div className="form-group">
                 <label className="col-sm-4 control-label">
                   First Name:
-                </label>
+                </label>                
                   <div className="inputField" className="col-sm-7 wordwrapper"> 
                     <input type="text" name="firstname" />
                   </div>
