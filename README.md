@@ -1,4 +1,11 @@
-# pf-lib-quickstart
-A quick start guide for getting started with the Patternfly React/Redux library
+# Easy Health Triage
 
-Read the docs [here](https://zmhassan.gitbooks.io/reactjs-redux-patternfly-library/content/quick-start.html). 
+
+
+Created this application to demonstrate an user interface for triaging patients in a hospital.
+This will feed into another app will be used to provide a estimated wait time for a patient.
+
+Prototype Mockups: 
+
+![alt tag](https://raw.githubusercontent.com/zmhassan/easyHealthTriage/master/imgs/eHT1st.png)
+![alt tag](https://raw.githubusercontent.com/zmhassan/easyHealthTriage/master/imgs/eHT2nd.png)
